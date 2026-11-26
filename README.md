@@ -7,3 +7,10 @@ This is the model designed and trained to detect the spam messeges from the mail
 Secondly, Diabetic or Non diabteic detection using machine learning
 This model takes various medical report inputs such as glucose, bloodpressure, skin thicknees, insuline level,bmi, age as data input and predicts either the person is diabetic or not.
 
+About the author_
+Pranav Prakash
+B.Tech(Artificial Intelligence & Machine Learning) Student 
+curently exploring Machine learning , Ai and sofware developent. Presenlty in 1yr.
+
+Project: AI/ML Trainig Project 
+Orgnization : Naviotech 
